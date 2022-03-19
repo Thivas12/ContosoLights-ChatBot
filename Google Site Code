@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="https://www.w3.org/1999/xhtml">
+<style type="text/css">
+    div{
+        text-align: center
+    }
+</style>
+<head>
+    <meta charset="utf-8"  />
+    <title></title>
+</head>
+<body>
+    <div>
+        <h1>WELCOME TO CONTOSO LIGHTS</h1>
+        <h3>Please ask your questions below</h3>
+        <br/>
+        <iframe src="https://webchat.botframework.com/embed/qna-service-qt-bot?s=f5AnWvf4Tnc.c6Bzw3ZnN1Uk8_q1mApY0w_-LXnl2aOCDzYGZZVVp3U" style="height: 502px; max-height: 502px;"></iframe>
+    </div>
+</body>
+</html>
