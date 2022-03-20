@@ -66,3 +66,6 @@ Step 6: Testing on Google Sites if the bot is working or not
 
 # PROJECT LINK:
 https://sites.google.com/view/contosolights/home
+
+# PROJECT DEMO VIDEO URL:
+https://youtu.be/vrY9y55KmHM
